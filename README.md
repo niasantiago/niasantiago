@@ -1,8 +1,6 @@
 ### Hi I am Nia! 👋
 
-
-![banner](githeader.png)
-
+![githeader](https://github.com/niasantiago/niasantiago/assets/126848887/f9244098-5e23-4981-ab52-c2e501a30241)
 
 Curently I am 🌱 learning about Node.js, Express and MongoDB. You could reach me via linkedIn or my Portfolio, both links are in my Bio.
 
