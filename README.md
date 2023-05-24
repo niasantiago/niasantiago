@@ -1,6 +1,6 @@
 ![githeader](https://github.com/niasantiago/niasantiago/assets/126848887/f9244098-5e23-4981-ab52-c2e501a30241) 
 
-Curently I am 🌱 learning about Node.js, Express and MongoDB. You could reach me <p><a href="https://www.linkedin.com/in/nia-santiago-" class="link">My LinkedIn</a></p> or <p><a href="https://niasantiago.netlify.app/" class="link">My Portfolio</a></p> both links are in my Bio.
+Curently I am 🌱 learning about Node.js, Express and MongoDB. You could reach me<p><a href="https://www.linkedin.com/in/nia-santiago-" class="link">My LinkedIn</a></p>or<p><a href="https://niasantiago.netlify.app/" class="link">My Portfolio</a></p> both links are in my Bio.
 
 ### Skills: 
 ![HTML5](https://img.shields.io/badge/HTML5-CD6A20?style=for-the-badge&logo=HTML5&logoColor=white)
